@@ -8,7 +8,3 @@ class Player
   end
 
 end
-
-player1 = Player.new("Player 1")
-player1.score -= 1
-puts (player1.score)
